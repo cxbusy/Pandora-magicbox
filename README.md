@@ -1,6 +1,6 @@
 # Pandora-magicbox
 
-# 喜大奔腾，老子他妈的终于把安卓版的给搞定了，旧用户请清楚数据后升级，[点此升级](https://raw.githubusercontent.com/Erblocker/Pandora-magicbox/master/pandorabox.apk)
+# cgoxopx提供的超超轻量级的源代码，在linux-sources分支里
 
 ## 前言
 
