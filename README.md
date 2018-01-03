@@ -2,6 +2,8 @@
 
 # cgoxopx提供的超超轻量级的源代码，在linux-sources分支里
 
+# 安卓版在[这里](http://chainsx.f3322.net/forty-jekyll-theme/2016/08/23/magna.html)，不要乱搞事情。
+
 ## 前言
 
 ### 注意，这个项目的性质正如这个名字一般，只要打开了，就没什么好东西
